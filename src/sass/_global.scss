@@ -1,0 +1,25 @@
+a{
+	color: inherit;
+}
+
+.main {
+	flex: 1 0 auto;
+}
+.footer {
+	flex: 0 0 auto;
+}
+
+.container{
+    max-width: 1220px;
+    margin: 0 auto;
+    padding: 0 10px;
+}
+
+body{
+    font-family: 'Jost', sans-serif;
+    font-size: 19px;
+    font-weight: 400;
+    font-size: 22px;
+    color: #292F36;
+
+}
